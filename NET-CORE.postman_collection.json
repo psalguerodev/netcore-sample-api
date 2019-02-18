@@ -1,0 +1,115 @@
+{
+	"variables": [],
+	"info": {
+		"name": "NET-CORE",
+		"_postman_id": "a5197bc1-bf38-2c1a-cd01-9ea3fc6a0905",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Api Default -GET",
+			"request": {
+				"url": "https://localhost:5001/api/values",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "GET - PATH VARIABLE",
+			"request": {
+				"url": "https://localhost:5001/api/values/3000",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "POST - DEFAULT API",
+			"request": {
+				"url": "https://localhost:5001/api/values",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\"value-sergio-aragon\""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "PUT - DEFAULT",
+			"request": {
+				"url": "https://localhost:5001/api/values/300",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\"Greace Diaz\""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE DEFAULT API",
+			"request": {
+				"url": "https://localhost:5001/api/values/400",
+				"method": "DELETE",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Listar Banco",
+			"request": {
+				"url": "https://localhost:5001/api/banco",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Guardar Banco",
+			"request": {
+				"url": "https://localhost:5001/api/banco",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\": \"MiBanco\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
