@@ -1,0 +1,14 @@
+/Volumes/psalguero/repositorios/bank-app/bin/Debug/netcoreapp2.2/bank-app.deps.json
+/Volumes/psalguero/repositorios/bank-app/bin/Debug/netcoreapp2.2/bank-app.runtimeconfig.json
+/Volumes/psalguero/repositorios/bank-app/bin/Debug/netcoreapp2.2/bank-app.runtimeconfig.dev.json
+/Volumes/psalguero/repositorios/bank-app/bin/Debug/netcoreapp2.2/bank-app.dll
+/Volumes/psalguero/repositorios/bank-app/bin/Debug/netcoreapp2.2/bank-app.pdb
+/Volumes/psalguero/repositorios/bank-app/obj/Debug/netcoreapp2.2/bank-app.csprojAssemblyReference.cache
+/Volumes/psalguero/repositorios/bank-app/obj/Debug/netcoreapp2.2/bank-app.csproj.CoreCompileInputs.cache
+/Volumes/psalguero/repositorios/bank-app/obj/Debug/netcoreapp2.2/bank-app.RazorAssemblyInfo.cache
+/Volumes/psalguero/repositorios/bank-app/obj/Debug/netcoreapp2.2/bank-app.RazorAssemblyInfo.cs
+/Volumes/psalguero/repositorios/bank-app/obj/Debug/netcoreapp2.2/bank-app.AssemblyInfoInputs.cache
+/Volumes/psalguero/repositorios/bank-app/obj/Debug/netcoreapp2.2/bank-app.AssemblyInfo.cs
+/Volumes/psalguero/repositorios/bank-app/obj/Debug/netcoreapp2.2/bank-app.RazorTargetAssemblyInfo.cache
+/Volumes/psalguero/repositorios/bank-app/obj/Debug/netcoreapp2.2/bank-app.dll
+/Volumes/psalguero/repositorios/bank-app/obj/Debug/netcoreapp2.2/bank-app.pdb
